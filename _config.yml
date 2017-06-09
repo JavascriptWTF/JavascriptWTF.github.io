@@ -7,3 +7,6 @@ theme: jekyll-theme-tactile
 kramdown:
   # Disable auto-generated ID's for headings
   auto_ids: false
+
+gems:
+  - jekyll-sitemap
