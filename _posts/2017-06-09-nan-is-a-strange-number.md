@@ -1,6 +1,7 @@
 ---
 title: NaN is a number
 permalink: wtf/nan-is-a-strange-number
+description: NaN is a number, but its's not equal to itself!
 ---
 
 NaN is a number, but its's not equal to itself!

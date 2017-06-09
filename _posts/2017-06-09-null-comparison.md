@@ -4,6 +4,7 @@ permalink: wtf/null-comparison
 source:
   url: https://gist.github.com/MichalZalecki/c964192f830360ce6361#file-wtf-js-L31
   class: github
+description: Null comparison to zero is strange!
 ---
 
 ```

@@ -4,6 +4,7 @@ permalink: wtf/numbers-sorted-alphabetically
 source:
   url: https://gist.github.com/MichalZalecki/c964192f830360ce6361#gistcomment-1991829
   class: github
+description: Lets sort those numbers alphabetically, said nobody, ever!
 ---
 
 ```
