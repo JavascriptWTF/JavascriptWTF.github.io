@@ -29,3 +29,7 @@ defaults:
       path: "_posts"
     values:
       layout: "wtf"
+  - scope:
+      path: ""
+    values:
+      image: /assets/wtf.png
