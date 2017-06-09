@@ -1,6 +1,3 @@
-## Welcome to Javascript WTF
-
-
 {% for post in site.posts %}
 
 ## [{{post.title}}]({{post.url}})
