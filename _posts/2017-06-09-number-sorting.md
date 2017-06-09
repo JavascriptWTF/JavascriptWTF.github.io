@@ -1,5 +1,6 @@
 ---
 title: Numbers get sorted alphabetically
+permalink: wtf/numbers-sorted-alphabetically
 ---
 
 ```
