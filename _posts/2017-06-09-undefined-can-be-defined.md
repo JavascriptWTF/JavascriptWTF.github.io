@@ -1,6 +1,9 @@
 ---
 title: Undefined can be defined
 permalink: wtf/undefined-can-be-defined
+source:
+  url: https://www.smashingmagazine.com/2011/05/10-oddities-and-secrets-about-javascript/#10-undefined-can-be-defined
+  class: external-link
 ---
 
 ```
@@ -17,5 +20,3 @@ permalink: wtf/undefined-can-be-defined
 > t == undefined
 < false     // ... What now?
 ```
-
-Source: [www.smashingmagazine.com/2011/05/10-oddities-and-secrets-about-javascript](https://www.smashingmagazine.com/2011/05/10-oddities-and-secrets-about-javascript/#10-undefined-can-be-defined)

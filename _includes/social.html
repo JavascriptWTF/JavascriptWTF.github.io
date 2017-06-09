@@ -1,0 +1,20 @@
+{% assign enc_url = include.url | absolute_url | uri_escape %}
+{% assign enc_text = include.text | uri_escape %}
+
+<div class="clearfix social-block">
+  <a target="_blank" rel="nofollow" href="https://facebook.com/share.php?u={{ enc_url }}" class="facebook">
+    <i class="fa fa-facebook"></i>
+  </a>
+
+  <a target="_blank" rel="nofollow" href="https://twitter.com/share?text={{ enc_text }}&url={{ enc_url }}" class="twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+
+  <a target="_blank" rel="nofollow" href="https://plus.google.com/share?url{{ enc_url }}&t={{ enc_text }}" class="google">
+    <i class="fa fa-google-plus"></i>
+  </a>
+
+  <a target="_blank" rel="nofollow" href="javascript:var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e);" class="pinterest">
+    <i class="fa fa-pinterest"></i>
+  </a>
+</div>

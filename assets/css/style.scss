@@ -1,0 +1,74 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$fa-font-path: '/assets/fonts/fontawesome';
+
+@import "font-awesome/font-awesome";
+
+p.date {
+  float: right;
+  line-height: 33px;
+  margin: 0;
+}
+
+.footer-links {
+  a.button {
+    i.fa {
+      font-size: 23px;
+      float: left;
+      padding: 0 10px;
+    }
+    span {
+      padding-left: 0;
+    }
+  }
+}
+
+.page-navigation {
+  margin-top: 1em;
+  a {
+    float: left;
+    width: 50%;
+    font-size: 0.85em;
+    &.next {
+      text-align: right;
+    }
+  }
+}
+
+.social-block {
+  margin: 1em 0;
+  display: flex;
+
+  a {
+    flex: 1;
+    float: left;
+    line-height: 2.5rem;
+    text-align: center;
+    color: rgba(255,255,255, 0.8);
+    text-shadow: none;
+
+    &.facebook { background-color: #3b5998; }
+    &.twitter { background-color: #55acee; }
+    &.google { background-color: #dd4b39; }
+    &.pinterest { background-color: #cb2027; }
+
+
+    transition: all 0.3s ease;
+    flex-grow: 1;
+    i {
+      line-height: 2.5rem;
+      font-size: 1.2em;
+      transition: all 0.3s ease;
+    }
+    &:hover {
+      flex-grow: 1.2;
+      i {
+        color: rgba(255,255,255, 1.0);
+        font-size: 1.5em;
+      }
+    }
+  }
+}

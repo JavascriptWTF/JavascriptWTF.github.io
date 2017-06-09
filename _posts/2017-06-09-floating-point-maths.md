@@ -1,6 +1,9 @@
 ---
 title: Floating Point Maths
 permalink: wtf/floating-point-maths
+source:
+  url: https://www.smashingmagazine.com/2011/05/10-oddities-and-secrets-about-javascript/#miscellaneous
+  class: external-link
 ---
 
 ```
@@ -8,5 +11,3 @@ permalink: wtf/floating-point-maths
 ```
 
 (Clearly this is a normal floating point problem, but still!)
-
-Source: [www.smashingmagazine.com/2011/05/10-oddities-and-secrets-about-javascript/](https://www.smashingmagazine.com/2011/05/10-oddities-and-secrets-about-javascript/#miscellaneous)

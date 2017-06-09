@@ -1,6 +1,9 @@
 ---
 title: WTF Strings?
 permalink: wtf/wtf-strings
+source:
+  url: https://gist.github.com/MichalZalecki/c964192f830360ce6361#file-wtf-js-L151
+  class: github
 ---
 
 ```
@@ -16,4 +19,3 @@ false
 > String('wtf') === 'wtf'
 true
 ```
-Source: [gist.github.com/MichalZalecki/c964192f830360ce6361](https://gist.github.com/MichalZalecki/c964192f830360ce6361#file-wtf-js-L151)

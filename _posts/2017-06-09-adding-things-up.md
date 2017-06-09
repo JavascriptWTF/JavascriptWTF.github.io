@@ -1,6 +1,9 @@
 ---
 title: Adding things up
 permalink: wtf/adding-things-up
+source:
+  url: https://charlieharvey.org.uk/page/javascript_the_weird_parts
+  class: external-link
 ---
 
 ```
@@ -11,5 +14,3 @@ permalink: wtf/adding-things-up
 ```
 
 Well those are some nice and consistent results!
-
-Source: [charlieharvey.org.uk/page/javascript_the_weird_parts](https://charlieharvey.org.uk/page/javascript_the_weird_parts)

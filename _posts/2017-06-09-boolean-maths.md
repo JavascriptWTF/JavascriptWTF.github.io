@@ -1,6 +1,9 @@
 ---
 title: Boolean Maths
 permalink: wtf/boolean-maths
+source:
+  url: https://gist.github.com/MichalZalecki/c964192f830360ce6361#file-wtf-js-L202
+  class: github
 ---
 
 ```
@@ -12,5 +15,3 @@ permalink: wtf/boolean-maths
 > true + true == true
 false
 ```
-
-Source: [gist.github.com/MichalZalecki/c964192f830360ce6361](https://gist.github.com/MichalZalecki/c964192f830360ce6361#file-wtf-js-L202)

@@ -10,3 +10,22 @@ kramdown:
 
 gems:
   - jekyll-sitemap
+  - jekyll-seo-tag
+
+twitter:
+  username: JavascriptWTF
+
+social:
+  name: JavascriptWTF
+  links:
+    - https://twitter.com/JavascriptWTF
+
+webmaster_verifications:
+  google: TODO
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "wtf"
