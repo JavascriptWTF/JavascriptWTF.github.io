@@ -1,0 +1,5 @@
+---
+BUNDLE_FROZEN: "0"
+BUNDLE_PATH: ".bundle/vendor"
+BUNDLE_DISABLE_SHARED_GEMS: "true"
+BUNDLE_JOBS: "4"

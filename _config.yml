@@ -1,1 +1,9 @@
+title: Javascript WTF
+description: A site where we can all share in those little WTF moments we enjoy with Javascript
+show_downloads: false
+google_analytics: 'UA-527778-19'
 theme: jekyll-theme-tactile
+
+kramdown:
+  # Disable auto-generated ID's for headings
+  auto_ids: false
