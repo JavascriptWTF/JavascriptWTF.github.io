@@ -12,6 +12,9 @@ gems:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+author: JavascriptWTF
+publisher: JavascriptWTF
+
 twitter:
   username: JavascriptWTF
 facebook:
