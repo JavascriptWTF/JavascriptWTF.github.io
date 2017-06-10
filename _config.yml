@@ -36,4 +36,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/wtf.png
+      image:
+        path: /assets/wtf.png
+        height: 128
+        width: 128
