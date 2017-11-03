@@ -1,6 +1,6 @@
 ---
 title: Appending a string to null treats it as a string
-permalink: wtf/arrays-are-not-equal
+permalink: wtf/append-string-to-null
 description: Yeah... nulling... that's what I meant...
 ---
 
