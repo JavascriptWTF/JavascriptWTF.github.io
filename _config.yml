@@ -8,7 +8,7 @@ kramdown:
   # Disable auto-generated ID's for headings
   auto_ids: false
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
