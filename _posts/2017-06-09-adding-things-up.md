@@ -11,7 +11,7 @@ description: Of course array plus array is string!
 > []+[] // ""
 > []+{} // "[object Object]"
 > {}+[] // 0
-> {}+{} // NaN
+> {}+{} // [object Object][object Object]
 ```
 
 Well those are some nice and consistent results!
