@@ -1,10 +1,12 @@
 ---
 title: Assigning to and through literals and undefined
-permalink: wtf/assign-through-literals-and-undefined.md
+permalink: wtf/assign-through-literals-and-undefined
 source:
   url: https://stackoverflow.com/a/71872185/3029882
   class: external-link
 description: Not only assign to undefined, but assign a value through it.
+redirect_from:
+  - /wtf/assign-through-literals-and-undefined.md
 ---
 
 ```
